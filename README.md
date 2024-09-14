@@ -32,7 +32,7 @@ To read and parse a Fluent ASCII mesh file, use the parse_msh_file function. Thi
 
 python
 复制代码
-from mesh_module import parse_msh_file
+from fluentmeshIO import parse_msh_file
 
 # Path to the Fluent ASCII mesh file
 # Fluent ASCII 网格文件的路径
@@ -106,6 +106,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 / 欢迎贡献！请 fork 仓库并提交包含更改的 pull request。
 
 Contact / 联系方式
-For any questions or issues, please open an issue on the GitHub repository or contact [your email address].
+For any questions or issues, please open an issue on the GitHub repository or contact [midwayofficial41@gmail.com].
 
-/ 如有任何问题或疑虑，请在 GitHub 仓库中打开 issue 或联系 [你的电子邮件地址]。
+/ 如有任何问题或疑虑，请在 GitHub 仓库中打开 issue 或联系 [midwayofficial41@gmail.com]。
