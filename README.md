@@ -30,8 +30,6 @@ To read and parse a Fluent ASCII mesh file, use the parse_msh_file function. Thi
 
 / 要读取和解析 Fluent ASCII 网格文件，请使用 parse_msh_file 函数。该函数将返回节点坐标和面数据。
 
-python
-复制代码
 from fluentmeshIO import parse_msh_file
 
 # Path to the Fluent ASCII mesh file
@@ -46,8 +44,7 @@ You can create a Mesh object using the node coordinates and face data. The Mesh 
 
 / 你可以使用节点坐标和面数据创建 Mesh 对象。Mesh 类提供了操作和可视化网格的方法。
 
-python
-复制代码
+
 from mesh_module import Mesh
 
 # Create a Mesh object
